@@ -1,5 +1,6 @@
-### [v0.0.11](https://github.com/littleflute/music/edit/master/README.md)
+### [v0.0.12](https://github.com/littleflute/music/edit/master/README.md)
 ### [https://littleflute.github.io/music/](https://littleflute.github.io/music/)
+## [https://littleflute.github.io/blog](https://littleflute.github.io/blog/)
 
 ## Welcome to GitHub Pages
 
